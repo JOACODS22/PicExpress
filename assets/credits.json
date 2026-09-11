@@ -1,0 +1,46 @@
+{
+  "texture-lens": {
+    "src": "assets/img/texture-lens.webp",
+    "title": "A lens captures a vibrant red glow in a dark setting",
+    "creator": "nenadstojkovicart",
+    "creator_url": "https://www.flickr.com/photos/202846129@N03",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/202846129@N03/54582013595",
+    "source": "flickr"
+  },
+  "svc-visa": {
+    "src": "assets/img/svc-visa.webp",
+    "title": "Free close travel passport photo",
+    "creator": "Unknown",
+    "creator_url": null,
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://www.rawpixel.com/image/5917399/image-public-domain-free-cards",
+    "source": "rawpixel"
+  },
+  "gallery-tripod": {
+    "src": "assets/img/gallery-tripod.webp",
+    "title": "Photography equipment tripod in a studio",
+    "creator": "David Adam Kess",
+    "creator_url": "https://commons.wikimedia.org/wiki/User:David_Adam_Kess",
+    "license": "by-sa",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=77363556",
+    "source": "wikimedia"
+  },
+  "gallery-flatlay": {
+    "src": "assets/img/gallery-flatlay.webp",
+    "title": "Kershaw Film",
+    "creator": "Clem Onojeghuo",
+    "creator_url": "https://stocksnap.io/author/11287",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://stocksnap.io/photo/kershaw-film-ZHMSEAXFV1",
+    "source": "stocksnap"
+  }
+}
